@@ -1,0 +1,15 @@
+C:\Users\Douglas\Desktop\Dev\Bootcamp DIO\dio-bootcamp-pottencial\Configuração de ambiente .net\bin\Debug\net6.0\Configuração de ambiente .net.exe
+C:\Users\Douglas\Desktop\Dev\Bootcamp DIO\dio-bootcamp-pottencial\Configuração de ambiente .net\bin\Debug\net6.0\Configuração de ambiente .net.deps.json
+C:\Users\Douglas\Desktop\Dev\Bootcamp DIO\dio-bootcamp-pottencial\Configuração de ambiente .net\bin\Debug\net6.0\Configuração de ambiente .net.runtimeconfig.json
+C:\Users\Douglas\Desktop\Dev\Bootcamp DIO\dio-bootcamp-pottencial\Configuração de ambiente .net\bin\Debug\net6.0\Configuração de ambiente .net.dll
+C:\Users\Douglas\Desktop\Dev\Bootcamp DIO\dio-bootcamp-pottencial\Configuração de ambiente .net\bin\Debug\net6.0\Configuração de ambiente .net.pdb
+C:\Users\Douglas\Desktop\Dev\Bootcamp DIO\dio-bootcamp-pottencial\Configuração de ambiente .net\obj\Debug\net6.0\Configuração de ambiente .net.csproj.AssemblyReference.cache
+C:\Users\Douglas\Desktop\Dev\Bootcamp DIO\dio-bootcamp-pottencial\Configuração de ambiente .net\obj\Debug\net6.0\Configuração de ambiente .net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Douglas\Desktop\Dev\Bootcamp DIO\dio-bootcamp-pottencial\Configuração de ambiente .net\obj\Debug\net6.0\Configuração de ambiente .net.AssemblyInfoInputs.cache
+C:\Users\Douglas\Desktop\Dev\Bootcamp DIO\dio-bootcamp-pottencial\Configuração de ambiente .net\obj\Debug\net6.0\Configuração de ambiente .net.AssemblyInfo.cs
+C:\Users\Douglas\Desktop\Dev\Bootcamp DIO\dio-bootcamp-pottencial\Configuração de ambiente .net\obj\Debug\net6.0\Configuração de ambiente .net.csproj.CoreCompileInputs.cache
+C:\Users\Douglas\Desktop\Dev\Bootcamp DIO\dio-bootcamp-pottencial\Configuração de ambiente .net\obj\Debug\net6.0\Configuração de ambiente .net.dll
+C:\Users\Douglas\Desktop\Dev\Bootcamp DIO\dio-bootcamp-pottencial\Configuração de ambiente .net\obj\Debug\net6.0\refint\Configuração de ambiente .net.dll
+C:\Users\Douglas\Desktop\Dev\Bootcamp DIO\dio-bootcamp-pottencial\Configuração de ambiente .net\obj\Debug\net6.0\Configuração de ambiente .net.pdb
+C:\Users\Douglas\Desktop\Dev\Bootcamp DIO\dio-bootcamp-pottencial\Configuração de ambiente .net\obj\Debug\net6.0\Configuração de ambiente .net.genruntimeconfig.cache
+C:\Users\Douglas\Desktop\Dev\Bootcamp DIO\dio-bootcamp-pottencial\Configuração de ambiente .net\obj\Debug\net6.0\ref\Configuração de ambiente .net.dll
