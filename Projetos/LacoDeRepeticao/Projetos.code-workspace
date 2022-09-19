@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"launch": {
+
+			"configurations": [],
+			"compounds": []
+		},
+		"razor.devmode": false
+	}
+}

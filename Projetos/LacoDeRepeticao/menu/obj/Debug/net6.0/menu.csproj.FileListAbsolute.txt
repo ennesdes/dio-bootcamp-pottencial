@@ -1,0 +1,15 @@
+C:\Users\Douglas\Desktop\Dev\Bootcamp DIO\dio-bootcamp-pottencial\Projetos\LacoDeRepeticao\menu\bin\Debug\net6.0\menu.exe
+C:\Users\Douglas\Desktop\Dev\Bootcamp DIO\dio-bootcamp-pottencial\Projetos\LacoDeRepeticao\menu\bin\Debug\net6.0\menu.deps.json
+C:\Users\Douglas\Desktop\Dev\Bootcamp DIO\dio-bootcamp-pottencial\Projetos\LacoDeRepeticao\menu\bin\Debug\net6.0\menu.runtimeconfig.json
+C:\Users\Douglas\Desktop\Dev\Bootcamp DIO\dio-bootcamp-pottencial\Projetos\LacoDeRepeticao\menu\bin\Debug\net6.0\menu.dll
+C:\Users\Douglas\Desktop\Dev\Bootcamp DIO\dio-bootcamp-pottencial\Projetos\LacoDeRepeticao\menu\bin\Debug\net6.0\menu.pdb
+C:\Users\Douglas\Desktop\Dev\Bootcamp DIO\dio-bootcamp-pottencial\Projetos\LacoDeRepeticao\menu\obj\Debug\net6.0\menu.csproj.AssemblyReference.cache
+C:\Users\Douglas\Desktop\Dev\Bootcamp DIO\dio-bootcamp-pottencial\Projetos\LacoDeRepeticao\menu\obj\Debug\net6.0\menu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Douglas\Desktop\Dev\Bootcamp DIO\dio-bootcamp-pottencial\Projetos\LacoDeRepeticao\menu\obj\Debug\net6.0\menu.AssemblyInfoInputs.cache
+C:\Users\Douglas\Desktop\Dev\Bootcamp DIO\dio-bootcamp-pottencial\Projetos\LacoDeRepeticao\menu\obj\Debug\net6.0\menu.AssemblyInfo.cs
+C:\Users\Douglas\Desktop\Dev\Bootcamp DIO\dio-bootcamp-pottencial\Projetos\LacoDeRepeticao\menu\obj\Debug\net6.0\menu.csproj.CoreCompileInputs.cache
+C:\Users\Douglas\Desktop\Dev\Bootcamp DIO\dio-bootcamp-pottencial\Projetos\LacoDeRepeticao\menu\obj\Debug\net6.0\menu.dll
+C:\Users\Douglas\Desktop\Dev\Bootcamp DIO\dio-bootcamp-pottencial\Projetos\LacoDeRepeticao\menu\obj\Debug\net6.0\refint\menu.dll
+C:\Users\Douglas\Desktop\Dev\Bootcamp DIO\dio-bootcamp-pottencial\Projetos\LacoDeRepeticao\menu\obj\Debug\net6.0\menu.pdb
+C:\Users\Douglas\Desktop\Dev\Bootcamp DIO\dio-bootcamp-pottencial\Projetos\LacoDeRepeticao\menu\obj\Debug\net6.0\menu.genruntimeconfig.cache
+C:\Users\Douglas\Desktop\Dev\Bootcamp DIO\dio-bootcamp-pottencial\Projetos\LacoDeRepeticao\menu\obj\Debug\net6.0\ref\menu.dll
